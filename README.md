@@ -1,4 +1,4 @@
-<p align="left">
+<p align="middle">
   <img height="150" height="auto" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 </p>
 
