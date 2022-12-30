@@ -1,5 +1,5 @@
 <p align="middle">
-  <img height="150" height="auto" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+  <img height="300" height="auto" src="https://user-images.githubusercontent.com/113156891/210043827-2280d223-79a0-4828-b3eb-bbddd453ad0a.jpeg">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
