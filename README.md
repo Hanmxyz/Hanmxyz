@@ -24,7 +24,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://go.dev/images/go-logo-white.svg" alt="golang" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="golang" width="40" height="40"/> </a>
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://www.liblogo.com/img-logo/no6273n057-node-js-logo-nodejs-transparent-logo-google-search.png" alt="golang" width="40" height="40"/> </a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180701/bvt/aaxf47zih.webp" alt="golang" width="40" height="40"/> </a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg" alt="golang" width="40" height="40"/> </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
