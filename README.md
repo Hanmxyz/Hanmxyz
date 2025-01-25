@@ -15,11 +15,6 @@
   </div>
 
 
-_**Listening Now**_
-
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d7ap5udisncc99rqmrseiwcpu&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -27,6 +22,7 @@ _**Listening Now**_
 ## **Languages and Tools**
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://go.dev/images/go-logo-white.svg" alt="golang" width="40" height="40"/> </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="left" width=100%  src="https://user-images.githubusercontent.com/72949170/194768942-c9c9444e-9f88-4ac4-8fc9-2db77d488c0b.svg">
