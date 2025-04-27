@@ -4,9 +4,9 @@
 
 ## **About Me**
 <h3 align= "middle">  Hy everyone 👋, I'm Farhan.</h3>
-<p align="middle">
+<h5 align="middle">
 I'm an information technology student passionate about web development, with a particular interest in backend systems. I'm actively involved in the developer community, I serve as a web development mentor at   <a href="https://github.com/gatherloop">Ghaterloop</a> and contribute to <a href="https://github.com/commitunuja">Comit</a> as a member, where we frequently discuss upcoming project ideas and collaborate on them.
-</p>
+</h5>
 <div id="badges" align="center">
   <a href="https://t.me/hanmxyz">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
