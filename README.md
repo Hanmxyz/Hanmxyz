@@ -5,7 +5,7 @@
 ## **About Me**
 <h3 align= "middle">  Hy everyone 👋, I'm Farhan.</h3>
 <h5 align="middle">
-I'm an information technology student passionate about web development, with a particular interest in backend systems. I'm actively involved in the developer community, I serve as a web development mentor at   <a href="https://github.com/gatherloop">Ghaterloop</a> and contribute to <a href="https://github.com/commitunuja">Comit</a> as a member, where we frequently discuss upcoming project ideas and collaborate on them.
+I'm an information technology student passionate about web development, with a particular interest in backend systems. I'm actively involved in the developer community at   <a href="https://github.com/gatherloop">Ghaterloop</a> and contribute to <a href="https://github.com/commitunuja">Comit</a> , where we frequently discuss upcoming project ideas and collaborate on them.
 </h5>
 <div id="badges" align="center">
   <a href="https://t.me/hanmxyz">
